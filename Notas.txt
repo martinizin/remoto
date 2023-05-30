@@ -1,0 +1,11 @@
+Conceptos
+Clases: Son un grupo de elementos que tienen características en común.
+Objeto: Algo que podemos manipular.
+Método: formas para realizar acciones.
+Atributo: Son las características que tiene o se le asigna a un objeto en específico.
+Setters: Es una función que nos permite asignar un valor a una variable.
+Getters: Es una función que nos permite obtener el valor de algún elemento.
+Puntero: Es una expresión que nos ayuda a no hacer el código tan redundante o extenso, esto también genera un código con u mayor grado de optimización.
+Constructor: Es aquel elemento que nos permite iniciar o mostrar las características del objeto (atributo).
+GitHub: Software que nos permite almacenar nuestros proyectos y realizar trabajo colaborativo en el código de programación.
+Cambio1
